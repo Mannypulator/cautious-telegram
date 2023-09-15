@@ -1,0 +1,5 @@
+1. div>p{parent}+h3{child}+h4{another child}
+2. ul{listed numbers from 1 to 5}>li{item $}*5
+3. nav>header>Table_1{Blank}+Table_2>Data>a[href=""]{link $}*2+footer>ph
+4. h1>p{paragraph}+div>p{child of div}
+5. div(a[href="nav--second_content--box"])>(h4>a[class="h-4"]Menu)+(ul>a[href="nav__list"])>(li>a[href="nav_list--items])>(a[class="index.html#projects"]) (a[class="nav_link]{project})
